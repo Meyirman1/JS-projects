@@ -1,2 +1,4 @@
 # Random-Number-Generator
- JavaScript = function(){} 
+ JavaScript = function(){
+ math.floor(Math.random() * max) + min;
+ } 
